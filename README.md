@@ -19,8 +19,9 @@
 |----|---------------|------|------------|------------|------|-----|
 | 1 | **NSX Tier-0 이중화** | NSX의 Tier-0 라우터 학습과 시연 | NSX, Tier0, 이중화 | 4명 | [Notion](https://www.notion.so/FISA-1-2a56edb233994f83a78e0eba881c5276?pvs=4) | *2023-09-13* |
 | 2 | **Crontab을 이용한 우리 FISA 퇴실 서비스🎨** | shell script와 crontab을 사용한 스케줄러 학습 | Linux, Crontab, Bash scripting, PAM | 개인 | [GitHub](https://github.com/smartcow99/crontab/tree/main) | *2024-09-20* |
-| 3 | **Average Load in Linux** | Linux 시스템 부하 관련 학습 정리👀 | Linux, stress, Bash scripting  | 2명 | [GitHub](https://github.com/smartcow99/Average-Load-in-Linux) | *2024-09-23*  |
-| 4 | **Docker Image Optimization** | 도커 이미지 최적화 학습 정리👀 | Linux, Docker, Bash scripting  | 2명 | [GitHub](https://github.com/smartcow99/docker_image) | *2024-09-24*  |
+| 3 | **Average Load in Linux** | Linux 시스템 부하 관련 학습👀 | Linux, stress, Bash scripting  | 2명 | [GitHub](https://github.com/smartcow99/Average-Load-in-Linux) | *2024-09-23*  |
+| 4 | **Docker Image Optimization** | 도커 이미지 최적화 학습👀 | Linux, Docker, Bash scripting  | 2명 | [GitHub](https://github.com/smartcow99/docker_image) | *2024-09-24*  |
+| 5 | **Docker Security Check Using Trivy** | 도커 컨테이너 이미지 취약점 분석 관련 학습 👀 | Linux, Docker, Bash scripting, Trivy  | 2명 | [GitHub](https://github.com/smartcow99/docker-security-check-using-trivy) | *2024-09-25*  |
 
 
 <br>
