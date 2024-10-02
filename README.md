@@ -22,7 +22,7 @@
 | 3 | **Average Load in Linux** | Linux 시스템 부하 관련 학습👀 | Linux, stress, Bash scripting  | 2명 | [GitHub](https://github.com/smartcow99/Average-Load-in-Linux) | *2024-09-23*  |
 | 4 | **Docker Image Optimization** | 도커 이미지 최적화 학습👀 | Linux, Docker, Bash scripting  | 2명 | [GitHub](https://github.com/smartcow99/docker_image) | *2024-09-24*  |
 | 5 | **Docker Security Check Using Trivy** | 도커 컨테이너 이미지 취약점 분석 관련 학습 👀 | Linux, Docker, Bash scripting, Trivy  | 2명 | [GitHub](https://github.com/smartcow99/docker-security-check-using-trivy) | *2024-09-25*  |
-
+| 6 | **Spring App Realease on k8s with NGINX** | Kubernetes에서 Spring 애플리케이션 NGINX와 함께 배포하기👀 | Linux, Docker, Bash scripting, k8s, NGINX  | 2명 | [GitHub](https://github.com/smartcow99/spring-app-on-k8s-with-nginx) | *2024-10-02*  |
 
 <br>
 
