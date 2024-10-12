@@ -33,7 +33,7 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br>  인원 | 링크 | 날짜 | 수상 |
 |----|---------------|------|------------|------------|------|-----|------|
 | 1 | **개인 맞춤 도서 추천 서비스** | 도서 대여, 반납 데이터를 활용하여 데이터 분석을 통한 개인 도서 맞춤 서비스 제작 | Python, Flask, 아이템 기반 추천 알고리즘, Flutter, 데이터 분석 | 4명 | [GitHub](https://github.com/smartcow99/IEEE) | *2022-08-30* | SSU 데이터톤 **우수상** |
-| 2 | **휠체어 이용자를 위한 길 찾기 서비스** | 공공데이터와 T-MAP API를 활용한 휠체어 이용자를 위한 길찾기 웹/앱 서비스 제작   | Java, Node.js, Mysql, EC2, 공공데이터, T-Map 오픈 API | 5명 | [GitHub](https://github.com/smartcow99/wheel-safe) | *2022-12-20* | 소프트웨어 공모전 **은상**, SW/DT 새싹경진대회 **대상** |
+| 2 | **휠체어 이용자를 위한 길 찾기 서비스** | 공공데이터와 T-MAP API를 활용한 휠체어 이용자를 위한 길찾기 웹/앱 서비스 제작   | Java, Node.js, Mysql, EC2, 공공데이터, T-Map 오픈 API | 5명 | [GitHub](https://github.com/SSU-EIEIE/backend/tree/main) | *2022-12-20* | 소프트웨어 공모전 **은상**, SW/DT 새싹경진대회 **대상** |
 | 3 | **로컬 홀리데이** | 문화체육관광부 관광 데이터를 활용한 국내 로컬 홀리데이 서비스 제작 | Spring Boot, JPA, RESTful API, IOS, Node.js Express, Mysql, Redis | 5명       | [GitHub](https://github.com/LocalHoliday/LocalHoliday-Server) | *2023-11-15* | 문화데이터 활용 경진대회 **장려상** |
 | 4 | **FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React  | 7명 | [GitHub](https://github.com/yuwankang/FISA-Land) | *2024-08-16* |  |
 
