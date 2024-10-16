@@ -25,6 +25,7 @@
 | 6 | **Spring App Realease on k8s with NGINX** | Kubernetes에서 Spring 애플리케이션 NGINX와 함께 배포하기👀 | Linux, Docker, Bash scripting, k8s, NGINX  | 2명 | [GitHub](https://github.com/smartcow99/spring-app-on-k8s-with-nginx) | *2024-10-02*  |
 | 7 | **Ubuntu-Stress-Test** | Spring Boot 애플리케이션 부하 테스트 가이드 🌟 | Linux, Springboot, ApacheBench  | 2명 | [GitHub](https://github.com/smartcow99/ubuntu-stress-test) | *2024-10-08*  |
 | 8 | **Aws-PipeLine-Construct** | AWS EC2 CI/CD 파이프라인 구축 🤸 | AWS EC2, S3, RDS, Linux, Springboot, Jenkins, Ngrok  | 4명 | [GitHub](https://github.com/smartcow99/aws-pipe-line-construct) | *2024-10-11*  |
+| 8 | **Terraform with AWS** | Terraform을 사용하여 Iac 환경 구축 | AWS EC2, S3, Terraform  | 1명 | [GitHub](https://github.com/smartcow99/terraform-with-aws) | *2024-10-16*  |
 
 <br>
 
