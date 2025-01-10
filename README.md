@@ -37,6 +37,8 @@
 | 2 | **휠체어 이용자를 위한 길 찾기 서비스** | 공공데이터와 T-MAP API를 활용한 휠체어 이용자를 위한 길찾기 웹/앱 서비스 제작   | Java, Node.js, Mysql, EC2, 공공데이터, T-Map 오픈 API | 5명 | [GitHub](https://github.com/SSU-EIEIE/backend/tree/main) | *2022-12-20* | 소프트웨어 공모전 **은상**, SW/DT 새싹경진대회 **대상** |
 | 3 | **로컬 홀리데이** | 문화체육관광부 관광 데이터를 활용한 국내 로컬 홀리데이 서비스 제작 | Spring Boot, JPA, RESTful API, IOS, Node.js Express, Mysql, Redis | 5명       | [GitHub](https://github.com/LocalHoliday/LocalHoliday-Server) | *2023-11-15* | 문화데이터 활용 경진대회 **장려상** |
 | 4 | **FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React  | 7명 | [GitHub](https://github.com/yuwankang/FISA-Land) | *2024-08-16* |  |
+| 5 | **MSA AI CHAT Project** | Open AI를 사용한 MSA 하이브리드 아키텍처 기반 챗봇 서비스 | Spring Boot, JPA, RESTful API, React, Argo CD, Jenkins, K8S, Istio  | 5명 | [GitHub](https://github.com/Mi-Ss-A) | *2024-12-10* |  |
+
 
 
 ---
